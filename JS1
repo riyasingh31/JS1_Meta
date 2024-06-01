@@ -40,5 +40,7 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("riya","20","straight","silver");
+mintNFT("alexa","20","curly","platinum");
+mintNFT("amazon","21","wavy","gold");
 listNFTs();
 getTotalSupply();
